@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/dyros/testbed_jjs/dyros_red_model.cpp
+dyros_red_model.h
+/home/dyros/testbed_jjs/dyros_red_model.h
+
+/home/dyros/testbed_jjs/dyros_red_model.h
+
